@@ -8,7 +8,7 @@ task_manager -> api
 		this is for backend environment
 
 task_manager -> frontend
-	--> go the folder of frontend and open the another terminal in the frontend folder
+	--> go to the folder of frontend and open the another terminal in the frontend folder
 	--> run ng serve
 		this is for user interface, client-side environment
 
